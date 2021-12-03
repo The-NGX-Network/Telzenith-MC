@@ -1,0 +1,25 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "IF ",
+        "##S"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:paper"
+        },
+        "S": {
+            "item": "minecraft:string"
+        },
+        "F": {
+            "item": "minecraft:feather"
+        },
+        "I": {
+            "item": "minecraft:black_dye"
+        }
+    },
+    "result": {
+        "item": "minecraft:name_tag",
+        "count": 1
+    }
+}

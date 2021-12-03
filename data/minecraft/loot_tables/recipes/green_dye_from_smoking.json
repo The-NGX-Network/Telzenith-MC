@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "minecraft:moss_block"
+  },
+  "result": "minecraft:green_dye",
+  "experience": 0.05,
+  "cookingtime": 100
+}
