@@ -1,7 +1,7 @@
 # Telzenith Survival Network
 Telzenith Survival Network is a Minecraft server network hosted by The NGX Network. Telzenith aims to provide an enchanced Vanilla Minecraft SMP experience by allowing players to enjoy a survival multiplayer server setting with additions and tweaks also mixed in to provide quality of life improvements to the game environment as well as expand upon other secitons.
 
-# 📦 Installing the Datapack
+# 📦 Downloading and Installing the Datapack
 To install the datapack, download the latest .zip archive from the project releases. After the download has successfully finished, you will want to create a new singleplayer world in Minecraft; To install a data pack when creating a new singleplayer world you will want to:
 
 1. Open Minecraft.
