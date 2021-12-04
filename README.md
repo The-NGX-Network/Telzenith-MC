@@ -1,7 +1,7 @@
-# Telzenith Survival Network
+# 🏙 Telzenith Survival Network
 Telzenith Survival Network is a Minecraft server network hosted by The NGX Network. Telzenith aims to provide an enhanced Vanilla Minecraft SMP experience by allowing players to enjoy a survival multiplayer server setting with additions and tweaks also mixed in to provide quality of life improvements to the game environment as well as expand upon other sections.
 
-# Additions & Changes
+# 📋 Additions & Changes
 * World Height is unified across all dimensions; The Nether now utilizes the full build height of 384 blocks (from y-64 to y320) for the dimension world generation.
 * Added drops to mobs who do not have any drops as an alternative means of acquiring the resources that they produce. (e.g. Bee has a chance to drop honeycomb when killed.)
 * Vegetation blocks in The Nether dimension require shears to collect now; Destroying them normally will no longer drop the vegetation resulting in a lesser cluttered inventory.
